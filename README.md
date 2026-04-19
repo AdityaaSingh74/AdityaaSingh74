@@ -1,71 +1,101 @@
-<!-- HERO HEADER -->
+<!-- HERO SECTION -->
 
 <h1 align="center">Hi 👋 I'm Aditya Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Explorer;Python+Developer;Automation+Builder;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+in+Progress;Full+Stack+Developer;Data+Analytics+Explorer;Building+Intelligent+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaaSingh74&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AdityaaSingh74&label=Profile+Views&color=blue&style=flat" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-* 🧠 Exploring **Machine Learning & Intelligent Systems**
-* 🐍 Python-focused developer
-* ⚙️ Building automation tools & structured platforms
-* 📊 Interested in data-driven problem solving
-* 🎯 Working toward AI / Software Engineering internships
+🧠 Passionate about **Artificial Intelligence, Data Systems & Scalable Software**
+⚙️ Building automation tools, ML pipelines, and structured applications
+📊 Interested in extracting insights from data
+🌐 Exploring full-stack engineering for intelligent platforms
+🎯 Targeting AI / Software / Data internships
 
 ---
 
-# ⚡ Developer Snapshot
+# ⚡ Developer Radar
 
 ```
-Problem Solving     ██████████████████████ 92%
-Machine Learning    ███████████████████░░░ 80%
-System Thinking     ███████████████████░░░ 82%
-Consistency         ██████████████████████ 95%
-Curiosity Engine    █████████████████████░ 90%
+Machine Learning      ███████████████████░░░ 82%
+Full Stack Systems    ██████████████████░░░░ 75%
+Data Analytics        ███████████████████░░░ 80%
+Problem Solving       ██████████████████████ 92%
+Consistency           ██████████████████████ 95%
 ```
 
 ---
 
-# 🧩 Engineering Interests
+# 🧠 Core Domains
 
-* 🤖 Applied Machine Learning
-* 📊 Data-driven workflows
-* ⚙️ Automation systems
-* 🧪 Algorithm implementations from scratch
-* 🐧 Linux utilities & scripting
-* 🌐 Student-focused platforms
+<p align="center">
+
+🤖 Artificial Intelligence
+📊 Data Analytics & Visualization
+🌐 Full Stack Development
+⚙️ Automation & System Utilities
+🐧 Linux-Based Tooling
+🧪 Algorithm Engineering
+
+</p>
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+## 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,ts,html,bash" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,mongodb,spring,kafka" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,bash" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🤖 AI / ML & Data Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/pandas-Data-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/numpy-Compute-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/matplotlib-Visualization-red?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌐 Full Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mongodb" />
+<img src="https://img.shields.io/badge/REST-APIs-black?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,spring,kafka,mongodb" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaaSingh74&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaaSingh74&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaaSingh74&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaaSingh74&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -73,41 +103,50 @@ Curiosity Engine    ████████████████████
 # 🔥 Contribution Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=AdityaaSingh74&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 LeetCode Section
+# 🏆 LeetCode Progress
 
 <p align="center">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
-<img src="https://img.shields.io/badge/DSA-Daily%20Practice-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LeetCode-Active%20Solver-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/Data%20Structures-Strong-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-Daily%20Practice-green?style=for-the-badge"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://leetcard.jacoblin.cool/Adi_Nerd?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 📈 Learning Focus (2026)
 
-* Build production-ready ML systems
-* Deploy interactive analytics dashboards
-* Strengthen system design intuition
-* Contribute to open source
-* Secure an AI / Software internship
+🚀 Production-ready ML pipelines
+📊 Interactive analytics dashboards
+⚙️ Distributed system architecture
+🧠 Reinforcement learning foundations
+🌐 Intelligent full-stack applications
 
 ---
 
 # 📫 Connect With Me
 
-* 📧 [singh.adityaa74@gmail.com](mailto:singh.adityaa74@gmail.com)
-* 🔗 https://linkedin.com/in/adityaasingh74
+📧 [singh.adityaa74@gmail.com](mailto:singh.adityaa74@gmail.com)
+🔗 linkedin.com/in/adityaasingh74
 
 ---
 
 <p align="center">
-⭐ Learning fast • Building consistently • Thinking in systems
+
+⭐ Building consistently • Learning deeply • Thinking in systems
+
 </p>
